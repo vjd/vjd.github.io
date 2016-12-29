@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://vjd.github.io/website/blog/openpmx/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/blog/whynow/</loc>
+    <lastmod>2016-10-12T14:19:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/post/aboutme/</loc>
+    <lastmod>2016-10-11T14:27:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/tags/acop/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/blog/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/categories/conference/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/tags/open-source/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/categories/open-source/</loc>
+    <lastmod>2016-11-01T14:20:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/post/</loc>
+    <lastmod>2016-10-11T14:27:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vjd.github.io/website/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
